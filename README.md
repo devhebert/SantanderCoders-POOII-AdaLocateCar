@@ -2,6 +2,10 @@
 
 Esta tarefa foi concebida no contexto do segundo módulo dedicado à POO, ministrado no Santander Coders pela ADA. 
 
+Uma das maiores dificuldades encontradas durante o desenvolvimento do projeto, embora não fosse obrigatório, foi a criação do frontend em conjunto com o uso do H2 e Spring. Além disso, aplicar de forma eficaz os conceitos do princípio SOLID, que foram aprendidos durante o módulo, representou um desafio significativo.
+
+##
+
 Este é um sistema de gerenciamento de aluguel de veículos que permite a gestão de veículos e clientes, bem como a realização de aluguéis e devoluções. O sistema segue um conjunto de regras de negócio para garantir seu funcionamento adequado. Abaixo, você encontrará informações sobre os itens obrigatórios e as regras de negócio implementadas neste projeto.
 
 ## Itens Obrigatórios
