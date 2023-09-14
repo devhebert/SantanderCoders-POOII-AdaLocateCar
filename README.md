@@ -3,6 +3,7 @@
 Esta tarefa foi concebida no contexto do segundo módulo dedicado à POO, ministrado no Santander Coders pela ADA. 
 
 Uma das maiores dificuldades encontradas durante o desenvolvimento do projeto, embora não fosse obrigatório, foi a criação do frontend em conjunto com o uso do H2 e Spring. Além disso, aplicar de forma eficaz os conceitos do princípio SOLID, que foram aprendidos durante o módulo, representou um desafio significativo.
+Nos próximos passos, planejo implementar validação tanto no front-end quanto no back-end(não deu tempo 😭), coletar feedback e incorporá-lo ao código.
 
 ##
 
