@@ -36,14 +36,4 @@ public class Rent {
         this.returnLocation = data.returnLocation();
         this.statusVehicle = data.statusVehicle();
     }
-
-    public int calculateDaily() {
-        return 1;
-    }
-
-    public double calculateDiscounts() {
-        return 2.0;
-    }
-
-
 }
